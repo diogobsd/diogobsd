@@ -14,7 +14,7 @@
   - AWS services: CDK, Lambda, SQS, RDS, EventBridge, S3, and others.
   - Integration with third-party APIs.
 - I also do have some experience in Front-end development with React, HTML and CSS.
-- I live in São Paulo, Brazil since I was born. I love where I live, despite not being perfect.
+- I live in Bauru - São Paulo, Brazil. I love where I live, despite not being perfect.
 - I’m interested in collaborating on early-stage web development projects, specially as Back-end engineer.
 - I’m interested in learning new ***Programming Languages***, ***Design Patterns*** and ***Software Architecture***.
 
